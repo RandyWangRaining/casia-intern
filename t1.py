@@ -1,2 +1,5 @@
 import numpy
-import scipy
+
+import scanext
+import fanstatic
+
